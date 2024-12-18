@@ -11,3 +11,9 @@ dependencies:
   - pip
   - pip:
     - ramp-workflow
+
+# To activate the ramp-variable-stars environment
+# conda activate ramp-variable-stars
+
+# Update environement with environment.yml
+# conda env update --file environment.yml --prune
